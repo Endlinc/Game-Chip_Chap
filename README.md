@@ -1,2 +1,2 @@
-# Game-Chip_Chap
+# Game-Chip and Chap
 This is a maze game.
